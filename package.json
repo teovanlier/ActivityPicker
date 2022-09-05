@@ -2,7 +2,7 @@
   "name": "bored",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://teovanlier.github.io/activitypicker/",
+  "homepage": "https://teovanlier.github.io/ActivityPicker/",
   "dependencies": {
     "@chakra-ui/react": "^1.6.12",
     "@craco/craco": "^6.4.0",
