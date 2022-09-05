@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ActivityPicker/static/css/main.95fdcf35.chunk.css",
+    "main.js": "/ActivityPicker/static/js/main.b023311b.chunk.js",
+    "main.js.map": "/ActivityPicker/static/js/main.b023311b.chunk.js.map",
+    "runtime-main.js": "/ActivityPicker/static/js/runtime-main.52f17bf2.js",
+    "runtime-main.js.map": "/ActivityPicker/static/js/runtime-main.52f17bf2.js.map",
+    "static/css/2.e39e7a71.chunk.css": "/ActivityPicker/static/css/2.e39e7a71.chunk.css",
+    "static/js/2.a45f4fee.chunk.js": "/ActivityPicker/static/js/2.a45f4fee.chunk.js",
+    "static/js/2.a45f4fee.chunk.js.map": "/ActivityPicker/static/js/2.a45f4fee.chunk.js.map",
+    "static/js/3.bc5e2860.chunk.js": "/ActivityPicker/static/js/3.bc5e2860.chunk.js",
+    "static/js/3.bc5e2860.chunk.js.map": "/ActivityPicker/static/js/3.bc5e2860.chunk.js.map",
+    "index.html": "/ActivityPicker/index.html",
+    "static/css/2.e39e7a71.chunk.css.map": "/ActivityPicker/static/css/2.e39e7a71.chunk.css.map",
+    "static/css/main.95fdcf35.chunk.css.map": "/ActivityPicker/static/css/main.95fdcf35.chunk.css.map",
+    "static/js/2.a45f4fee.chunk.js.LICENSE.txt": "/ActivityPicker/static/js/2.a45f4fee.chunk.js.LICENSE.txt",
+    "static/media/logo.b83498dd.png": "/ActivityPicker/static/media/logo.b83498dd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52f17bf2.js",
+    "static/css/2.e39e7a71.chunk.css",
+    "static/js/2.a45f4fee.chunk.js",
+    "static/css/main.95fdcf35.chunk.css",
+    "static/js/main.b023311b.chunk.js"
+  ]
+}
